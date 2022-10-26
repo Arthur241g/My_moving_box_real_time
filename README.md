@@ -2,18 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem are the resolve the challenge of get moving a box.
 
 ## Description
-TODO - How have you solved the problem?
+I have solved the problem in using the differents functions like setIntervalle(function)
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I dowload the package of application inline
 
 ## Usage
 TODO - How does it work?
 ```
-./my_project argument1 argument2
+./my_project ex00 index.html
 ```
 
 ### The Core Team
